@@ -1,0 +1,12 @@
+h1 {
+  /* font-family: 'Lobster', cursive; */
+  font-family: 'Kalam', cursive;
+  font-weight: bold;
+  padding-top: 80px;
+  padding-left: 60px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-section" transform="translate(-647.000000, -591.000000)" fill="#3A559F">
+            <g id="Pastille-contact" transform="translate(552.000000, 381.000000)">
+                <path d="M126.1,250 L126.1,236.845587 L131.9,236.845587 L133,229.607019 L126.1,229.607019 C125.920376,225.752266 126.120376,223.603832 126.7,223.16172 C127.566667,222.500663 129.666667,222.269293 133,222.46761 L133,216.121469 C126.733333,215.65873 122.766667,216.518103 121.1,218.699589 C119.233333,220.682758 118.5,224.318568 118.9,229.607019 L113,229.607019 L113,236.845587 L118.9,236.845587 L118.9,250 L95,250 L95,210 L135,210 L135,250 L126.1,250 Z" id="facebook"></path>
+            </g>
+        </g>
+    </g>
+</svg>

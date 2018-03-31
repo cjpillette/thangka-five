@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="43px" viewBox="0 0 35 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>calendrier copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M28.5313531,5.31353135 L35,5.31353135 L35,41.9306931 L0,41.9306931 L0,5.31353135 L6.35313531,5.31353135 L6.35313531,7.7232579 C5.85070516,8.27691305 5.54455446,9.01194478 5.54455446,9.81848185 C5.54455446,11.5409541 6.9408941,12.9372937 8.66336634,12.9372937 C10.3858386,12.9372937 11.7821782,11.5409541 11.7821782,9.81848185 C11.7821782,9.01194478 11.4760275,8.27691305 10.9735974,7.7232579 L10.9735974,5.31353135 L24.2574257,5.31353135 L24.2574257,7.4535348 C23.6873277,8.00948785 23.3333333,8.78601128 23.3333333,9.64521452 C23.3333333,11.3357891 24.7038148,12.7062706 26.3943894,12.7062706 C28.084964,12.7062706 29.4554455,11.3357891 29.4554455,9.64521452 C29.4554455,8.78601128 29.1014512,8.00948785 28.5313531,7.4535348 L28.5313531,5.31353135 Z M3.81188119,14.669967 L3.81188119,39.2739274 L31.9966997,39.2739274 L31.9966997,14.669967 L3.81188119,14.669967 Z" id="path-1"></path>
+        <rect id="path-2" x="12.2442244" y="3.23432343" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-3" x="17.3267327" y="3.23432343" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-4" x="22.5247525" y="3.23432343" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-5" x="12.2442244" y="8.31683168" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-6" x="17.3267327" y="8.31683168" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-7" x="22.5247525" y="8.31683168" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-8" x="12.2442244" y="13.2838284" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-9" x="17.3267327" y="13.2838284" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-10" x="22.5247525" y="13.2838284" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-11" x="7.04620462" y="18.3663366" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-12" x="7.04620462" y="13.2838284" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-13" x="7.04620462" y="8.31683168" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-14" x="1.96369637" y="18.3663366" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-15" x="1.96369637" y="13.2838284" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-16" x="1.96369637" y="8.31683168" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-17" x="12.1287129" y="18.3663366" width="3.58085809" height="3.58085809"></rect>
+        <rect id="path-18" x="17.3267327" y="18.3663366" width="3.58085809" height="3.58085809"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="calendrier-copy" transform="translate(0.000000, 1.000000)">
+            <g id="Combined-Shape">
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#000000" stroke-width="1" d="M29.0313531,5.81353135 L29.0313531,7.25190957 C29.6205126,7.90042467 29.9554455,8.74672324 29.9554455,9.64521452 C29.9554455,11.6119315 28.3611064,13.2062706 26.3943894,13.2062706 C24.4276725,13.2062706 22.8333333,11.6119315 22.8333333,9.64521452 C22.8333333,8.74672324 23.1682662,7.90042467 23.7574257,7.25190957 L23.7574257,5.81353135 L11.4735974,5.81353135 L11.4735974,7.53828862 C11.9922709,8.17662592 12.2821782,8.97551622 12.2821782,9.81848185 C12.2821782,11.8170965 10.661981,13.4372937 8.66336634,13.4372937 C6.66475172,13.4372937 5.04455446,11.8170965 5.04455446,9.81848185 C5.04455446,8.97551622 5.33446173,8.17662592 5.85313531,7.53828862 L5.85313531,5.81353135 L0.5,5.81353135 L0.5,41.4306931 L34.5,41.4306931 L34.5,5.81353135 L29.0313531,5.81353135 Z M3.31188119,14.169967 L32.4966997,14.169967 L32.4966997,39.7739274 L3.31188119,39.7739274 L3.31188119,14.169967 Z"></path>
+            </g>
+            <g id="jours" transform="translate(3.811881, 14.669967)">
+                <g id="Rectangle-13">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#000000" stroke-width="1" x="12.7442244" y="3.73432343" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#000000" stroke-width="1" x="17.8267327" y="3.73432343" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-2">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#000000" stroke-width="1" x="23.0247525" y="3.73432343" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-5">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#000000" stroke-width="1" x="12.7442244" y="8.81683168" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-4">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <rect stroke="#000000" stroke-width="1" x="17.8267327" y="8.81683168" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-3">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#000000" stroke-width="1" x="23.0247525" y="8.81683168" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-8">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#000000" stroke-width="1" x="12.7442244" y="13.7838284" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-7">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <rect stroke="#000000" stroke-width="1" x="17.8267327" y="13.7838284" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-6">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-10"></use>
+                    <rect stroke="#000000" stroke-width="1" x="23.0247525" y="13.7838284" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-11">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <rect stroke="#000000" stroke-width="1" x="7.54620462" y="18.8663366" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-13">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-12"></use>
+                    <rect stroke="#000000" stroke-width="1" x="7.54620462" y="13.7838284" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-15">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <rect stroke="#000000" stroke-width="1" x="7.54620462" y="8.81683168" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-12">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-14"></use>
+                    <rect stroke="#000000" stroke-width="1" x="2.46369637" y="18.8663366" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-14">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <rect stroke="#000000" stroke-width="1" x="2.46369637" y="13.7838284" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-16">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    <rect stroke="#000000" stroke-width="1" x="2.46369637" y="8.81683168" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-10">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <rect stroke="#000000" stroke-width="1" x="12.6287129" y="18.8663366" width="2.58085809" height="2.58085809"></rect>
+                </g>
+                <g id="Rectangle-13-Copy-9">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-18"></use>
+                    <rect stroke="#000000" stroke-width="1" x="17.8267327" y="18.8663366" width="2.58085809" height="2.58085809"></rect>
+                </g>
+            </g>
+            <path d="M7.62376238,0.462046205 C7.97029703,0.154015402 8.32645765,2.02117231e-16 8.69224422,0 C9.0580308,0 9.41419142,0.154015402 9.76072607,0.462046205 L9.76072607,10.2805281 C9.39493949,10.7040704 9.03877888,10.9158416 8.69224422,10.9158416 C8.34570957,10.9158416 7.98954895,10.7040704 7.62376238,10.2805281 L7.62376238,0.462046205 Z" id="Path-53" stroke="#000000" fill="#000000"></path>
+            <path d="M25.4125413,0.462046205 C25.7590759,0.154015402 26.1152365,2.02117231e-16 26.4810231,0 C26.8468097,0 27.2029703,0.154015402 27.549505,0.462046205 L27.549505,10.2805281 C27.1837184,10.7040704 26.8275578,10.9158416 26.4810231,10.9158416 C26.1344884,10.9158416 25.7783278,10.7040704 25.4125413,10.2805281 L25.4125413,0.462046205 Z" id="Path-53-Copy" stroke="#000000" fill="#000000"></path>
+        </g>
+    </g>
+</svg>
